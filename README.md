@@ -28,6 +28,7 @@ This Call Center Database project aims to create a comprehensive database for ma
 
 
 ## Data Definitions 
+SQL Queries Link : https://github.com/npallab/Call_center_end_to_end_Database/blob/main/Call%20Center%20Project_DDL.sql
 <a href="https://ibb.co/q70cBwN"><img src="https://i.ibb.co/WGDMn1k/Untitled.png" alt="Untitled" border="0"></a>
 
 
@@ -340,7 +341,8 @@ ORDER BY `Manager_ID`
 ```
 ## Dashboard
 
-![Dashboard Screenshot](https://drive.google.com/file/d/1iw3oUARomqbHci08G5FT38DU4sbOHv2T/view?usp=sharing)
+![Dashboard Screenshot]
+<a href="https://ibb.co/SBJk6bw"><img src="https://i.ibb.co/QMXWJLv/Screenshot-2024-07-23-at-5-07-29-PM.png" alt="Screenshot-2024-07-23-at-5-07-29-PM" border="0"></a>
 
 Link : https://lookerstudio.google.com/reporting/f396405a-c830-4281-9868-37b5946a544f
 
