@@ -29,6 +29,7 @@ This Call Center Database project aims to create a comprehensive database for ma
 
 ## Data Definitions 
 SQL Queries Link : https://github.com/npallab/Call_center_end_to_end_Database/blob/main/Call%20Center%20Project_DDL.sql
+
 <a href="https://ibb.co/q70cBwN"><img src="https://i.ibb.co/WGDMn1k/Untitled.png" alt="Untitled" border="0"></a>
 
 
