@@ -1,5 +1,5 @@
 
-# End-to-end Dabase of a contact center(Call Center)
+# End-to-end Database of a contact center(Call Center)
 This Call Center Database project aims to create a comprehensive database for managing various aspects of call center operations, including employee details, skills, leave balances, production data, and QA audits. The database structure ensures efficient data management and retrieval, aiding HR, operations, and quality assurance teams in their respective functions.
 
 
